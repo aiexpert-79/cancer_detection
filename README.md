@@ -4,4 +4,9 @@ Project focuses on diagnosing cancer through image analysis. It utilizes machine
 
 Attention! 
 
-This is an unvalidated project for AI study purposes. Do not consider the results presented. Please consult a specialized doctor.
+This is an unvalidated project for AI study purposes. Do not absolutely rely on the results presented. Please consult a specialized doctor.
+
+# Contact
+https://github.com/aiexpert-79
+hmh19980907@gmail.com
+
